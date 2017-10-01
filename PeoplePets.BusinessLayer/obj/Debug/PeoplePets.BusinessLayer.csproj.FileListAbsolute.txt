@@ -1,0 +1,7 @@
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\obj\Debug\PeoplePets.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\bin\Debug\PeoplePets.BusinessLayer.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\bin\Debug\PeoplePets.BusinessLayer.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\bin\Debug\PeoplePets.ServiceWrapper.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\bin\Debug\PeoplePets.ServiceWrapper.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\obj\Debug\PeoplePets.BusinessLayer.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.BusinessLayer\obj\Debug\PeoplePets.BusinessLayer.pdb

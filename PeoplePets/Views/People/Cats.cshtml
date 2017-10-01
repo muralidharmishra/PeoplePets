@@ -1,0 +1,17 @@
+﻿@model List<PeoplePets.BusinessLayer.Owner>
+@{
+    ViewBag.Title = "Cat Names";
+}
+<h2>Cat Names</h2>
+
+@foreach (var owner in Model)
+{
+    <p>Owner @owner.Gender</p>
+    <ul>
+        @foreach (var catName in owner.CatNames)
+        {
+            <li>@catName</li>
+        }
+    </ul>
+}
+

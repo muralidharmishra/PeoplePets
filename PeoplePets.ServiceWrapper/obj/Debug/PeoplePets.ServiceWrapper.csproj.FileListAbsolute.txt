@@ -1,0 +1,4 @@
+C:\Practise\javascript\PeoplePets\PeoplePets.ServiceWrapper\bin\Debug\PeoplePets.ServiceWrapper.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.ServiceWrapper\bin\Debug\PeoplePets.ServiceWrapper.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.ServiceWrapper\obj\Debug\PeoplePets.ServiceWrapper.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.ServiceWrapper\obj\Debug\PeoplePets.ServiceWrapper.pdb

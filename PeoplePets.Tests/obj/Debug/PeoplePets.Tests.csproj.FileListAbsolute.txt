@@ -1,0 +1,10 @@
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.Tests.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.Tests.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.BusinessLayer.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.ServiceWrapper.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.BusinessLayer.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.ServiceWrapper.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\obj\Debug\PeoplePets.Tests.csprojResolveAssemblyReference.cache
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\obj\Debug\PeoplePets.Tests.dll
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\obj\Debug\PeoplePets.Tests.pdb
+C:\Practise\javascript\PeoplePets\PeoplePets.Tests\bin\Debug\PeoplePets.Tests.dll.config
