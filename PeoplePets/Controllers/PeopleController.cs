@@ -21,7 +21,7 @@ namespace PeoplePets.Controllers
         // GET: People
         public ActionResult Cats()
         {
-            return View((List<Owner>)_people.GetOwnerCatNames());
+            return View(_people.GetOwnerCatNames().ToList());
         }
     }
 }
